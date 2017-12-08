@@ -1,22 +1,14 @@
 +++
 title = "Skywire and Viscript"
-título = "Skywire and Viscript"
 tags = [
     "Development",
     "Skywire",
     "Viscript",
 ]
-etiquetas = [
-    "Desarrollo",
-    "Skywire",
-    "Viscript",
-]
 
 bounty = 3
-generosidad
 
 date = "2017-08-15"
-fecha = "2017-08-15"
 
 categories = [
     "Skywire",
@@ -25,6 +17,7 @@ categorías = [
 ]
 +++
 ## Introduction
+
 ## Introducción
 
 ### Viscript
@@ -32,12 +25,15 @@ categorías = [
 [Viscript](https://github.com/skycoin/viscript) is a cross platform CLI, and application launcher and for cluster management eventually. It is based on signal library as a signal server, so it can manage the signal clients, like node and the components in skywire. It can be run in GUI mode or headless mode.
 
 #### Viscript GUI Screenshot:
+
 #### Viscript GUI Captura de pantalla
 
 ![screenshot](viscript.jpeg)
+
 ![captura de pantalla] (viscript.jpeg)
 
 We can add app configurations in the config.yaml file, like the meshnet-socks-server:
+
 Podemos agregar configuraciones de aplicaciones en el archivo Congoy.yamal, como el meshnet-socks-server:
 
 
